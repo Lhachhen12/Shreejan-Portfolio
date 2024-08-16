@@ -1,0 +1,66 @@
+CV
+
+Lhachhew Wanjyu Lama  
+Phone: +91 98617 74657  
+Email: shreejanlama608@gmail.com  
+
+
+
+### Objective
+Passionate and dedicated Frontend Developer with hands-on experience in building 
+dynamic and responsive web applications. Currently pursuing a BSc in Computer Science and 
+Information Technology while gaining practical experience at Nnine Training Pvt Ltd. Seeking to 
+leverage my skills and enthusiasm in a challenging development role.
+
+
+
+### Education
+
+St. Lawrence College  
+*Bachelor of Science in Computer Science and Information Technology (BSc CSIT)*  
+[2078] - Present
+
+[Name of +2 College, if applicable]  
+*Plus Two in Computer Science*  
+[Passed year: 2078]
+
+
+
+### Experience
+
+Frontend Developer  
+*Nnine Training Pvt Ltd*  
+[2081] - Present  
+- Developed and maintained web applications with a focus on responsive design and user experience.
+- Utilized HTML, CSS, JavaScript, and frameworks like React or Angular (specify if applicable) to create interactive features.
+- Collaborated with designers and backend developers to ensure seamless integration and functionality.
+- Debugged and optimized code to enhance performance and usability.
+
+
+
+### Skills
+- Languages: HTML, CSS, JavaScript
+- Frameworks/Libraries: React, Next
+- Tools: Git, npm, Webpack (or any relevant tools)
+- Design: Responsive Design, User Interface (UI) and User Experience (UX) principles
+
+
+### Languages  
+- English (Proficient) 
+- Nepali 
+- [Other Languages, if applicable]
+
+
+
+### Interests
+- Web Development
+- UI/UX Design
+- Continuous Learning and Technology Trends
+
+
+
+### References
+Available upon request.
+
+
+
